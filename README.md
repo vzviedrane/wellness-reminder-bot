@@ -19,5 +19,22 @@ Users can set their own reminder intervals by editing a small config file.
 ---
 
 ## 🧰 Tech Stack
-- Python  
-- [python-tel]()
+- Python
+- python-telegram-bot
+- JSON configuration
+
+---
+
+## 🚀 How to Run
+1. Clone this repo.
+2. Install dependencies:
+pip install -r requirements.txt
+3. Add your Telegram Bot API token in .env.
+4. Start the bot:
+python project.py
+
+---
+
+👩‍💻 **Author:** Viktorija Zviedrāne  
+*CS50x Final Project, April 2025*
+
