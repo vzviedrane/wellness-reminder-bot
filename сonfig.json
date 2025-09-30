@@ -1,0 +1,7 @@
+{
+  "intervals": {
+    "water": 30,
+    "stretch": 60,
+    "break": 90
+  }
+}
