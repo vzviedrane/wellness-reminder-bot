@@ -36,5 +36,5 @@ python project.py
 ---
 
 👩‍💻 **Author:** Viktorija Zviedrāne  
-*CS50x Final Project, April 2025*
+*CS50x Final Project, December 2024*
 
